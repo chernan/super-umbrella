@@ -1,3 +1,4 @@
 # super-umbrella
 
-Really super!
+Really super! but it's not raining
+
