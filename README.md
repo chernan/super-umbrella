@@ -1,4 +1,4 @@
 # super-umbrella
 
-Really super! Arre you sure ?
-Yes I'm surre!
+Really super! Are you sure ?  
+Yes I'm sure!
